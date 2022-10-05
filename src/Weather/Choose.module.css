@@ -1,0 +1,34 @@
+.selectMenu1,
+.selectMenu2 {
+  width: 240px;
+  height: 50px;
+  position: absolute;
+  display: inline-block;
+  top: 30px;
+}
+
+.selectMenu1 {
+  right: 300px;
+}
+
+.selectMenu2 {
+  right: 530px;
+}
+
+.selectLangOption {
+  width: 115px;
+  height: 40px;
+  color: #fff;
+  background-color: rgb(82, 82, 82);
+  border: 3px solid #fff;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 14px;
+}
+
+label {
+  color: #fff;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: 10px;
+}

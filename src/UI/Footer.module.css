@@ -1,0 +1,32 @@
+.footer {
+  width: 100%;
+  height: 70px;
+  background-color: rgb(82, 82, 82);
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  padding: 25px 30px;
+}
+
+.leftP,
+.rightP,
+a {
+  color: #fff;
+  font-size: 17px;
+}
+
+.leftP {
+  float: left;
+}
+
+.rightP {
+  float: right;
+}
+
+a {
+  color: #cfcfcf;
+  transition: color 0.3s linear;
+}
+a:hover {
+  color: #fff;
+}
