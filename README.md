@@ -1,4 +1,4 @@
-# Reacy Project for the React Course
+# Reacy Project for the Weather app React
 
 ## Available Scripts
 
